@@ -32,8 +32,7 @@ Web3.js Solidity<br/>
 
 <h2>Exprience</h2>
 
-<h3>TANKED GIL SCHOOLIES</h3><br/>
-<br/>
+<h3>TANKED GIL SCHOOLIES</h3>
 1. Sr. React + ( NFT & Express.js + Web3 ) Developer<br/>
 - Built React(TypeScript + Eslint) based initial project and main workflow.<br/>
 - Dashboard page NFT viewer using <b>Swiper.js.</b><br/>
@@ -160,7 +159,6 @@ https://github.com/imziadsakr/Tepe-ASP-NET-Backend
 
   
 <h3>Kamermans Holding</h3>
-<br/>
 1. DEFI ( React + Express.js + MongoDB )<br/>
 <br/>
 React.js<br/>
