@@ -1,4 +1,4 @@
-Hi Everyone 👋
+Hello, Everyone 👋
 
 
 <h1>Senior Full Stack Engineer</h1>
