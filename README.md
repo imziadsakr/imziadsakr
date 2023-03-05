@@ -6,7 +6,6 @@
 Gmail : im.ziad.sakr@gmail.com
 
 <h2>Summary</h2><br/>
-<br/>
 - Experience with Architecture, Design and Development of <b>Object Oriented Software System</b>s and building complex, high performance, scalable and easily maintainable solutions for N - tier, Web, and Distributed applications.<br/>
 - 8+ years experienced React Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components by deploying React concepts.<br/>
 - Proficient in translating designs & wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows.<br/>
