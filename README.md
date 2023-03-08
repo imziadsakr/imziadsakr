@@ -157,6 +157,39 @@ https://github.com/imziadsakr/Vinovest
 https://github.com/imziadsakr/Tepe-React-Typescript<br/>
 https://github.com/imziadsakr/Tepe-ASP-NET-Backend
 
+<h3>Poster News</h3>
+1. Next.js + TypeScript + Tailwind CSS<br/><br/>
+- Define user types of platform and design user story.<br/>
+- Listed of terms and metaphors associated with the product.<br/>
+- Followed SaaS development process in each step of development from requirement analysis to maintaining.<br/>
+- Built Next.js project with Eslint + Prettier package and Implemented standard protocol.<br/>
+- Developed reusable digital uploading function using Javascript yield & generator function and json object.<br/>
+- Developed maintainable and reusable layout and component.<br/>
+- Implemented various hook of react-query such as useInfiniteQuery, useQuery for getting paginated blog data from backend.<br/>
+- Developed blog editor component using quill module & html-to-formatted-text.<br/>
+- File uploading mutiple synchronous loading effect using react hook functions & axiosHelper second callback function.<br/>
+- Implemented loading effect while interacting with backend using useMutation hook of react-query.<br/>
+- Implemented react workflow, redux, slice using @reduxjs/toolkit, redux-persist, redux-thunk.<br/>
+- Customized tailwind css using scss grammar.<br/>
+- All data types and interfaces architecture and define. <br/>
+<br/>
+2. Express.js + TypeScript + GCP<br/><br/>
+- Implemented Docker & TypeScript on express restful api.<br/>
+- Developed mongoose model and query using TypeScript.<br/>
+- Integrated middleware for uploading digital asset to GCP using multer-google-storage.<br/>
+- Generated user avatar and name using randpix color schema & unique-username-generator and distributing flow.<br/>
+- Integrated tsc compiler.<br/>
+- SSL verification workflow using RSA & AES algorithm and cryptojs module.<br/>
+- Implemented cronjob real time tracking for calculating total weighted downvotes about all posts.<br/>
+- Design relation mapping between post and reply & comment.<br/>
+- Implemented web socket using socket.io package.<br/>
+<br/>
+*** Online<br/>
+https://poc.here.news/<br/>
+<br/>
+*** Github<br/>
+https://github.com/imziadsakr/poster-news-frontend<br/>
+https://github.com/imziadsakr/poster-news-backend<br/>
   
 <h3>Kamermans Holding</h3>
 1. DEFI ( React + Express.js + MongoDB )<br/>
