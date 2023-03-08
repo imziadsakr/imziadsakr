@@ -59,7 +59,7 @@ Web3.js Solidity<br/>
 *** Online
 https://nft.tankedgilschoolies.com<br/>
 <br/>
-*** Github
+*** Github<br/>
 https://github.com/imziadsakr/APTOS-PROJECT<br/>
 https://github.com/imziadsakr/APTOS-NFT-Contract<br/>
 https://github.com/imziadsakr/APTOS-Backend-Express<br/>
