@@ -39,10 +39,16 @@ Web3.js Solidity<br/>
 - Implement cart & purchase flow with <b>paypal payment system</b>.<br/>
 - Wallet connection part using rainbow-me/rainbowkit.<br/>
 - NFT minting workflow using web3 & ethers.<br/>
+- Integrated various hook of react-query  for getting large data of NFT.<br/>
 - Host front-end project on <b>nft.tankedgilschoolies.com</b>, sub-domain under <b>tankedgilschoolies.com</b> on Godaddy.<br/>
 <br/>
 2. Express.js + MySQL<br/>
-- Simple authentication flow for initial workflow.<br/>
+- Authentication flow for initial workflow.<br/>
+- Implemented Jwt-passport authentication.<br/>
+- web3 api using hook function from wagmi library<br/>
+- Integrated smart contract interaction part using web3, ethers.<br/>
+- Integrated sucrase compiler for developing import/export grammer.<br/>
+- Generated wallet automatically using cryptojs and node.js.<br/>
 - Host back-end on nft.io.takedgilschoolies.com, sub-domain under tankedgilschoolies.com on Godaddy.<br/>
 <br/>
 3. NFT(ERC1155) + Marketplace smart contract + Solidity<br/>
@@ -66,6 +72,8 @@ https://github.com/devstar0703/SOLSTICE-Web-app
 
 <h3>SOLSTICE</h3>
 1. React + Firebase(GCP)<br/><br/>
+- Followed SaaS development process all development step.<br/>
+- Define user types of platform and design user story.<br/>
 - Built reusable code for future use and optimized web pages(Eslint).<br/>
 - User-friendly mobile web page.<br/>
 - Authentication workflow using firebase → google, reCaptcha, phone, email and password authentication.<br/>
@@ -134,6 +142,7 @@ https://github.com/imziadsakr/Vinovest
 
 <h3>Tepe</h3>
 1. React(TypeScript)<br/><br/>
+- Listed of terms and metaphors related with operation of Wireframe. <br/>
 - Reusable & Optimized Components related with Dashboard page (framer-motion node module for animation) <br/>
 - Wireframe operation of 2D object(SVG image object). <br/>
 - Development of hook functions about to local storage(react-use, context) for selected products temp store.<br/>
