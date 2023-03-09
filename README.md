@@ -10,9 +10,9 @@ Gmail : im.ziad.sakr@gmail.com
 - 8+ years experienced React Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components by deploying React concepts.<br/>
 - Proficient in translating designs & wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS workflows.<br/>
 - Comfortable working with MEAN, MERN stack.<br/>
-- Adept at monitoring & maintaining frontend performance and <br>troubleshooting & debuggingM/b> the same to bolster overall performance.<br/>
+- Adept at monitoring & maintaining frontend performance and <br>troubleshooting & debugging</b> the same to bolster overall performance.<br/>
 - Experience in developing backend projects with various frameworks <b>Express.js, Java Spring Boot, Asp.NET Core Web API.</b><br/>
-- Experience in database programming using <b>MySQL, PostgreSQL 9.3 and MongoDB.M/b><br/>
+- Experience in database programming using <b>MySQL, PostgreSQL 9.3 and MongoDB.</b><br/>
 - Experience in various DevOps tools such as <b>Github, Gitlab.M</b><br/>
 - Experience with web hosting with <b>AWS, Godaddy, DigitalOcean.M</b><br/>
 - Experience with team task and ticket management system with <b>Trello, Github, Monday.com</b> and so on.<br/>
