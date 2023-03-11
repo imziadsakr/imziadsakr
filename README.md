@@ -33,19 +33,19 @@ Web3.js Solidity<br/>
 <h2>Exprience</h2>
 
 <h3>TANKED GIL SCHOOLIES</h3>
-1. Sr. React + ( NFT & Express.js + Web3 ) Developer<br/>
+1. React + TypeScript + Web3<br/>
 - Built React(TypeScript + Eslint) based initial project and main workflow.<br/>
-- Dashboard page NFT viewer using <b>Swiper.js.</b><br/>
-- Implement cart & purchase flow with <b>paypal payment system</b>.<br/>
+- Dashboard page NFT viewer using Swiper.js.<br/>
+- Implement cart & purchase flow with paypal payment system.<br/>
 - Wallet connection part using rainbow-me/rainbowkit.<br/>
 - NFT minting workflow using web3 & ethers.<br/>
 - Integrated various hook of react-query  for getting large data of NFT.<br/>
-- Host front-end project on <b>nft.tankedgilschoolies.com</b>, sub-domain under <b>tankedgilschoolies.com</b> on Godaddy.<br/>
+- web3 api using hook function from wagmi library.<br/>
+- Host front-end project on nft.tankedgilschoolies.com, sub-domain under tankedgilschoolies.com on Godaddy.<br/>
 <br/>
-2. Express.js + MySQL<br/>
+2. Express.js + MySQL
 - Authentication flow for initial workflow.<br/>
 - Implemented Jwt-passport authentication.<br/>
-- web3 api using hook function from wagmi library<br/>
 - Integrated smart contract interaction part using web3, ethers.<br/>
 - Integrated sucrase compiler for developing import/export grammer.<br/>
 - Generated wallet automatically using cryptojs and node.js.<br/>
@@ -56,53 +56,81 @@ Web3.js Solidity<br/>
 - Coding APTOS NFT, Marketplace using solidity and deploy 2 contracts on AVAX Test network.<br/>
 - Testcase about APTOSNFT.sol & APTOSMarketplace.sol.<br/>
 <br/>
-*** Online
+*** Online<br/>
 https://nft.tankedgilschoolies.com<br/>
 <br/>
-*** Github<br/>
+*** Github
 https://github.com/imziadsakr/APTOS-PROJECT<br/>
 https://github.com/imziadsakr/APTOS-NFT-Contract<br/>
 https://github.com/imziadsakr/APTOS-Backend-Express<br/>
-<br/>
-*** Online<br/>
-https://solsapp.com
-<br/><br/>
-*** Github<br/>
-https://github.com/devstar0703/SOLSTICE-Web-app
 
 <h3>SOLSTICE</h3>
-1. React + Firebase(GCP)<br/><br/>
+React + Firebase(GCP)<br/>
 - Followed SaaS development process all development step.<br/>
 - Define user types of platform and design user story.<br/>
+- Partnered with data science to develop the front end for a product.<br/>
+- Multiple payment infrastructure system using stripe 3rd party api and web3 api. <br/>
+- Overhauled the UI for an internal tool to refund customers which helped the customer experience team of 4 improve refund speed by 10%.<br/>
+- Optimized legacy data storage and search query for the high-volume web application, minimizing the average response time by 63%.<br/>
+- Used Jest to build unit testing infrastructure for a client application that reduced the number of user-reported bugs by 8% monthly.<br/>
+- Implemented Webpack to build Typescript modules in V1.0 step.<br/>
 - Built reusable code for future use and optimized web pages(Eslint).<br/>
-- User-friendly mobile web page.<br/>
-- Authentication workflow using firebase → google, reCaptcha, phone, email and password authentication.<br/>
-- Email & phone verification flow using firebase.<br/>
-- Restricted or Public link distributing flow in product page using Twilio, Email.js libraries.<br/>
-- Various chart of dashboard page using react-apexchart library.<br/>
-- Multi-Digital asset security UI using canvas, pdf-viewer and so on.<br/>
-- Transaction data management using firebase Real-time database.<br/>
-- Some security firebase backend functions development using Express.js & deploy it on GCP.<br/>
-- [Editing photo] UI of Setting Page using only CSS3 and canvas(Not Plugin).<br/>
+- User-friendly mobile responsive web page. <br/>
+- Authentication workflow using firebase : google, reCaptcha, phone, email and password authentication. <br/>
+- Email & phone verification flow using firebase. <br/>
+- Restricted or Public link distributing flow in product page using Twilio, Email.js libraries. <br/>
+- Various chart of dashboard page using react-apexchart library. <br/>
+- Multi-Digital asset security UI using canvas, pdf-viewer and so on. <br/>
+- Transaction data management using firebase Real-time database. <br/>
+- Some security firebase backend functions development using Express.js & deploy it on GCP. <br/>
+- Developed functional component for editing user avatar image using only CSS3 and canvas(Not Plugin).<br/>
 - Created features to enhance the user experience while ensuring that the web design is optimized for smartphones.<br/>
-- Stripe payment infrastructure system using stripe 3rd party api.<br/>
-- Parsing CSV files, converting csv to json flow using json2csv and react-csv library in Customers page.<br/>
-- Jest Testcase.<br/>
 - Frontend project hosting using Godaddy.<br/>
-<br/>
-**** Additional Work at Main Stack Outside on Blockchain Part.<br/>
-- Product creating workflow using IPFS.<br/>
+- User product creating flow using IPFS.<br/>
 - Wallet connection part using @rainbow-me/rainbowkit library.<br/>
 - NFT minting flow using web3.js.<br/>
 - SOLSTICE ERC20 token & ERC1155 NFT development using Solidity. <br/>
 - RSA encryption and decryption logic about product uploaded in IPFS using crypto library.<br/>
 <br/>
 *** Online<br/>
-https://solsapp.com
-<br/><br/>
+https://solsapp.com<br/>
+<br/>
 *** Github<br/>
-https://github.com/imziadsakr/SOLSTICE-Web-app
+https://github.com/imziadsakr/SOLSTICE-Web-app<br/>
+<br/>
 
+<h3>Tepe</h3>
+1. React(TypeScript)<br/>
+- Listed of terms and metaphors related with operation of Wireframe. <br/>
+- Created prototype and improved its by integrating frontend and backend components, and creating a preliminary data structure.<br/>
+- Suggested initial design by taking inspiration from recent content publishing UIs and implemented these designs using code.<br/>
+- Post existing developed content online and evaluated its functions.<br/>
+- Provided personal feedback from customers to team members and improved project by it.<br/>
+- Reusable & Optimized Components related with Dashboard page (framer-motion node module for animation).<br/>
+- Wireframe operation of 2D object(SVG image object). <br/>
+- Development of hook functions about to local storage(react-use, context) for selected products temp store.<br/>
+- Loading effect of component before download bundle file using { lazy } from 'react'.<br/>
+- Mui various component customization using callback in styleOverrides.<br/>
+- Built reusable theme with color + dark mode using hook, Mui palette, typography.<br/>
+- Implemented web socket connection part using @microsoft/signalr on alert message.<br/>
+- Integration Typescript based Redux workflow.<br/>
+- Built beauty code with powerful code style using Eslint grammar. <br/>
+- Patient schedule management page UI(@aldabil/react-scheduler + react-calendar-timeline).<br/>
+- Development of a recursive function for validating the moment a patient schedule ticket is put on the calendar.<br/>
+- Twilio backend API integration using axiosHelper.<br/>
+- Integrated Unit test of all functional components using Jest.<br/>
+<br/>
+2. Asp.NET Web API<br/>
+- Implemented web socket using SignalR.<br/>
+- Built ASP.NET Core Web API using Entity framework. <br/>
+- Built Test Project using xUnit. <br/>
+- ASP.NET Twilio api integration. <br/>
+- Project Hosting on DigitalOcean.<br/>
+<br/>
+*** Github<br/>
+https://github.com/imziadsakr/Tepe-React-Typescript<br/>
+https://github.com/imziadsakr/Tepe-ASP-NET-Backend<br/>
+<br/>
 <h3>Vinovest</h3>
 1. React(TypeScript) + WebPack + Eslint<br/><br/>
 - Update old webpack.config.<br/>
@@ -137,40 +165,13 @@ https://github.com/imziadsakr/SOLSTICE-Web-app
 https://vinovest.co/whiskeyvest<br/>
 <br/>
 *** Github<br/>
-https://github.com/imziadsakr/Vinovest
-
-
-<h3>Tepe</h3>
-1. React(TypeScript)<br/><br/>
-- Listed of terms and metaphors related with operation of Wireframe. <br/>
-- Reusable & Optimized Components related with Dashboard page (framer-motion node module for animation) <br/>
-- Wireframe operation of 2D object(SVG image object). <br/>
-- Development of hook functions about to local storage(react-use, context) for selected products temp store.<br/>
-- Loading effect of component before download bundle file using { lazy } from 'react'.<br/>
-- Mui various component customization using callback in styleOverrides.<br/>
-- Built reusable theme with color + dark mode using hook, Mui palette, typography.<br/>
-- Integration Typescript based Redux workflow.<br/>
-- Built beauty code with powerful code style using Eslint grammar. <br/>
-- Patient schedule management page ui(@aldabil/react-scheduler + react-calendar-timeline).<br/>
-- Twilio backend API integration using axiosHelper.<br/>
-- Multi-language platform using context hook + local storage.<br/>
-- Testcase of all components using Jest.<br/>
+https://github.com/imziadsakr/Vinovest<br/>
 <br/>
-2. Asp.NET Web API<br/><br/>
-- Built ASP.NET Core Web API using Entity framework. <br/>
-- Built Test Project using xUnit. <br/>
-- ASP.NET Twilio api integration. <br/>
-- Project Hosting on DigitalOcean.<br/>
-<br/>
-*** Github<br/>
-https://github.com/imziadsakr/Tepe-React-Typescript<br/>
-https://github.com/imziadsakr/Tepe-ASP-NET-Backend
-
 <h3>Poster News</h3>
-1. Next.js + TypeScript + Tailwind CSS<br/><br/>
+1. Next.js + TypeScript + Tailwind CSS<br/>
 - Define user types of platform and design user story.<br/>
-- Listed of terms and metaphors associated with the product.<br/>
-- Followed SaaS development process in each step of development from requirement analysis to maintaining.<br/>
+- Followed Agile workflow in each step of development from requirement analysis to maintaining.<br/>
+- Gathered and validated requirements as a part of a collaboration for a PWA that helped develop clear, unambiguous technical requirements and establish a consistent feedback loop.<br/>
 - Built Next.js project with Eslint + Prettier package and Implemented standard protocol.<br/>
 - Developed reusable digital uploading function using Javascript yield & generator function and json object.<br/>
 - Developed maintainable and reusable layout and component.<br/>
@@ -182,7 +183,7 @@ https://github.com/imziadsakr/Tepe-ASP-NET-Backend
 - Customized tailwind css using scss grammar.<br/>
 - All data types and interfaces architecture and define. <br/>
 <br/>
-2. Express.js + TypeScript + GCP<br/><br/>
+2. Express.js + TypeScript + GCP<br/>
 - Implemented Docker & TypeScript on express restful api.<br/>
 - Developed mongoose model and query using TypeScript.<br/>
 - Integrated middleware for uploading digital asset to GCP using multer-google-storage.<br/>
